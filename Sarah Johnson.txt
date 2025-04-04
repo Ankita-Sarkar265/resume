@@ -1,0 +1,59 @@
+Sarah Johnson
+5678 Pine Lane, City, State, ZIP
+Email: sarahjohnson@email.com | Phone: (987) 654-3210
+LinkedIn: linkedin.com/in/sarahjohnson | GitHub: github.com/sarahjohnson
+
+PROFESSIONAL SUMMARY
+Innovative and resourceful Software Engineer with 4+ years of experience in developing and maintaining web applications, APIs, and mobile solutions. Proficient in both front-end and back-end technologies. Expertise in collaborating with cross-functional teams to deliver high-quality software solutions.
+
+EXPERIENCE
+
+Software Engineer
+GlobalTech Solutions | City, State | March 2019 – Present
+
+Developed and maintained scalable web applications using Angular, Node.js, and MongoDB
+
+Led the migration of a legacy system to a modern cloud infrastructure (AWS)
+
+Implemented API integrations with third-party services to enhance platform functionality
+
+Conducted performance optimizations, resulting in a 30% improvement in application speed
+
+Led code reviews and mentored junior developers in best practices and coding standards
+
+Software Developer Intern
+Innovative Apps | City, State | June 2018 – August 2018
+
+Assisted in the development of mobile applications using Java for Android
+
+Implemented UI/UX improvements to enhance user experience
+
+Wrote scripts to automate routine data processing tasks
+
+Participated in weekly sprints and helped improve project planning accuracy
+
+EDUCATION
+Bachelor of Science in Computer Science
+State University | City, State | Graduated May 2018
+
+TECHNICAL SKILLS
+
+Languages: JavaScript (Node.js, Angular), Java, Python, SQL
+
+Frameworks: Angular, Express.js, Django
+
+Databases: PostgreSQL, MongoDB
+
+Tools: Git, Docker, Jenkins, AWS, Firebase
+
+Methodologies: Agile, Test-Driven Development (TDD)
+
+PROJECTS
+Task Manager App – Developed a full-stack task management app with React, Node.js, and MongoDB. Integrated user authentication and real-time updates.
+Weather App – Built a weather forecasting app using Angular and OpenWeather API to display current weather information for different locations.
+
+CERTIFICATIONS
+
+AWS Certified Solutions Architect – Associate (2020)
+
+JavaScript Algorithms and Data Structures – freeCodeCamp (2019)

@@ -1,0 +1,55 @@
+John Smith
+1234 Oak Drive, City, State, ZIP
+Email: johnsmith@email.com | Phone: (123) 555-6789
+LinkedIn: linkedin.com/in/johnsmith | GitHub: github.com/johnsmith
+
+PROFESSIONAL SUMMARY
+Detail-oriented and highly motivated Junior Software Engineer with a strong foundation in software development, coding, and debugging. Adept at developing efficient code and contributing to team projects. Passionate about problem-solving and learning new technologies to improve software systems.
+
+EXPERIENCE
+
+Junior Software Engineer
+Tech Solutions Inc. | City, State | June 2021 – Present
+
+Designed and implemented features for a customer-facing web application using React, Node.js, and Express
+
+Collaborated with senior engineers to optimize application performance and troubleshoot bugs
+
+Wrote unit tests using Jest to ensure code quality and prevent regressions
+
+Assisted in maintaining cloud-based infrastructure on AWS
+
+Contributed to a 20% reduction in response time for the application
+
+Intern – Software Engineer
+Innovate Software | City, State | May 2020 – August 2020
+
+Assisted in building RESTful APIs using Node.js and MongoDB
+
+Developed automated testing scripts in Python
+
+Worked on UI improvements using HTML, CSS, and JavaScript
+
+Participated in daily stand-ups and code reviews to improve coding standards
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of Technology | City, State | Graduated May 2021
+
+TECHNICAL SKILLS
+
+Languages: JavaScript (Node.js, React), Python, Java, SQL
+
+Frameworks: Express.js, React, Flask
+
+Databases: MySQL, MongoDB
+
+Tools: Git, Docker, Jenkins, AWS, VS Code
+
+Agile/Scrum Methodologies
+
+CERTIFICATIONS
+
+AWS Certified Developer – Associate (2021)
+
+Full Stack Web Development Certification – Codecademy (2020)
